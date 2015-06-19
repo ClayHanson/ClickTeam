@@ -3,9 +3,9 @@ NAME  PLAYERS GAMEMODE  BRICK COUNT IP  PORT  DEDICATED PASSWORDED
 Clay Hanson's Blockland Server  0 / 10  Custom  9942
 Badspot's Speedykart  3 / 50  Speedykart  91882
 --------------------IP DATA--------------------
-192.168.1.1 28000 0 0
-518.281.52.73 28001 1 0
+192.168.1.1 28000 0 0 http://forum.blockland.us/avatarUpload/avatar_144367.gif
+518.281.52.73 28001 1 0 http://forum.blockland.us/avatarUpload/avatar_144367.gif
 
 FORMAT:
 NAME | PLAYERS / MAXPLAYERS | GAMEMODE | BRICK COUNT
-IP | PORT | DEDICATED | PASSWORDED
+IP | PORT | DEDICATED | PASSWORDED  | PICTURE URL
