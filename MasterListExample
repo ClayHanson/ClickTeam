@@ -1,8 +1,10 @@
 NAME  PLAYERS GAMEMODE  BRICK COUNT IP  PORT  DEDICATED PASSWORDED
+--------------------SHOWN DATA--------------------
 Clay Hanson's Blockland Server  0 / 10  Custom  9942
-192.168.1.1 28000 0 1
 Badspot's Speedykart  3 / 50  Speedykart  91882
-192.168.1.1 28000 1 0
+--------------------IP DATA--------------------
+192.168.1.1 28000 0 0
+518.281.52.73 28001 1 0
 
 FORMAT:
 NAME | PLAYERS / MAXPLAYERS | GAMEMODE | BRICK COUNT
